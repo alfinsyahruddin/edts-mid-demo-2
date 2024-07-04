@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "17C4C702-F43D-42B7-BC2C-44ACC31B2036",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:EDTSMIDDemo.xcodeproj",
+      "identifier" : "8E9D7D7D2C304DE50097864E",
+      "name" : "EDTSMIDDemo"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:EDTSMIDDemo.xcodeproj",
+        "identifier" : "8E9D7D8D2C304DE60097864E",
+        "name" : "EDTSMIDDemoTests"
+      }
+    }
+  ],
+  "version" : 1
+}
